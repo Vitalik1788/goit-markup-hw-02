@@ -35,10 +35,8 @@ body {font-family: "Roboto", sans-serif;}
     text-align: left;
     vertical-align: center;
     letter-spacing: 3%;
-    color: var(--dark-navi-color);
-    cursor: default;    
-}
-
+    color: var(--dark-navi-color);}
+ 
 .logo-part-color {
     color: var(--primary-brand-color);
 }
@@ -51,7 +49,7 @@ body {font-family: "Roboto", sans-serif;}
     vertical-align: top;
     letter-spacing: 2%;
     color: var(--dark-navi-color);
-    cursor: default;
+    
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -66,7 +64,7 @@ body {font-family: "Roboto", sans-serif;}
     vertical-align: top;
     letter-spacing: 2%;
     color: var(--slate-text-color);
-    cursor: default;  
+     
 }
 
 .mail-link:hover, .mail-link:focus {
@@ -99,6 +97,7 @@ body {font-family: "Roboto", sans-serif;}
     font-size: 16px;
     line-height: 1.18;
     letter-spacing: 4%;
+    cursor: pointer;
 }
 
 /* /main page section 1 */
@@ -187,7 +186,7 @@ body {font-family: "Roboto", sans-serif;}
     vertical-align: center;
     letter-spacing: 3%;
     color: var(--could-text-color);
-    cursor: default;}
+    }
 
 .text-footer {
     font-size: 16px;
@@ -196,7 +195,7 @@ body {font-family: "Roboto", sans-serif;}
     vertical-align: top;
     letter-spacing: 2%;
     color: var(--accent-color);
-    cursor: default; }
+    }
 
 /* portfolio page - main */
 
