@@ -87,7 +87,7 @@ body {font-family: "Roboto", sans-serif;}
     vertical-align: top;
     letter-spacing: 2%;
     color: var(--simple-white);
-    cursor: default;
+    
 }
 .hero-button {
     background-color: var(--primary-brand-color);
@@ -97,8 +97,8 @@ body {font-family: "Roboto", sans-serif;}
     font-size: 16px;
     line-height: 1.18;
     letter-spacing: 4%;
-    cursor: pointer;
-}
+    cursor: pointer;}
+
 
 /* /main page section 1 */
 
