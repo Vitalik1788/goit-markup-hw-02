@@ -169,7 +169,7 @@ body {font-family: "Roboto", sans-serif;
 /* portfolio page - main */
 
 /* buttons filter */
-.btn-list, .work-list {
+.main-portfolio {
     background-color: var(--main-white-bgc);
 }
 .btn-link {
